@@ -2,7 +2,7 @@
 
 CE 122/123L Bridge Design
 
-# Byzantine
+# Project Team
 
 ![](RackMultipart20201101-4-u3c08o_html_a4a98955db658820.png)
 
